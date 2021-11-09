@@ -1,23 +1,11 @@
 pt:
-  - title: "Biblioteca"
-    url: /pt/library/
-  - title: "Física Computacional"
-    url: /pt/ComputationalPhysics/
-  - title: "Trabalhos"
-    url: /pt/works/
-  - title: "Publicações"
-    url: /pt/publications/
-  - title: "Lattes"
-    url: http://lattes.cnpq.br/1281887099263383
+  - title: "null"
+    url: /pt/null/
 
 en:
-  - title: "Publications"
-    url: /en/publications/
-  - title: "cv (in portuguese)"
-    url: http://lattes.cnpq.br/1281887099263383
+  - title: "null"
+    url: /en/null/
 
 es:
-  - title: "Publicaciones"
-    url: /es/publications/
-  - title: "cv (en portugues)"
-    url: http://lattes.cnpq.br/1281887099263383
+  - title: "null"
+    url: /es/null/
