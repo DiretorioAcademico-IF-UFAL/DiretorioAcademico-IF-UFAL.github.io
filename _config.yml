@@ -7,7 +7,7 @@
 remote_theme             : "mmistakes/minimal-mistakes@4.20.2" # Use este para hospedar o site no GitHub
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 locale                   : "pt-BR"
-title                    : "Ismael Damião"
+title                    : "DA IF UFAL"
 title_separator          : "-"
 name                     : &name "Ismael Damião"
 description              : &description "Bacharelando em física"
@@ -43,35 +43,35 @@ atom_feed:
 
 # Site Author
 author:
-  name             : "Ismael Damiao"
+  name             : "Diretório Acadêmico"
   avatar           : "./images/profile.png"
-  bio              : "Bacharelando em física"
+  bio              : ""
   location         : "Maceió, Alagoas"
   employer         :
   pubmed           :
-  email            : "ismaellxd@gmail.com"
+  email            : "2020ifda@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "ismael.filipe.125"
+  facebook         : ""
   foursquare       :
-  github           : "ismaeldamiao"
+  github           : "DiretorioAcademico-IF-UFAL"
   google_plus      :
   keybase          :
-  instagram        : "ismael_damiao_al"
+  instagram        : "fisda.ufal"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
   orcid            :
-  pinterest        : "ismaellxd4118"
+  pinterest        : ""
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ismaellxd"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
