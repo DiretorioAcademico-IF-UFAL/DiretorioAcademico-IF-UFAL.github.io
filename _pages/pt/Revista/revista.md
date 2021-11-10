@@ -47,9 +47,9 @@ conforme instruções contidas no modelo que pode ser encontrado
 
 ## Vol. 1
 
-* <p style="font-size:70%"><b>Modelo</b>
-   <br><b>I. F. F. Dos Santos</b>, C. Antunis
+* **Modelo**
+   **I. F. F. Dos Santos**, C. A. Antunis
    <br><i>Revista</i>, 2021.
-   <a href="/assets/revista/modelo.pdf" style="font-size:90%"><button class="button button2">PT</button></a>
-   <a href="/assets/revista/modelo.pdf" style="font-size:90%"><button class="button button3">EN</button></a>
-   <a href="/assets/revista/modelo.pdf" style="font-size:90%"><button class="button button4">ES</button></a>
+   <a href="/assets/revista/modelo.pdf"><button class="button button2">PT</button></a>
+   <a href="/assets/revista/modelo.pdf"><button class="button button3">EN</button></a>
+   <a href="/assets/revista/modelo.pdf"><button class="button button4">ES</button></a>
