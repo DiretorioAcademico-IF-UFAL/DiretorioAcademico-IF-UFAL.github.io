@@ -7,9 +7,9 @@
 remote_theme             : "mmistakes/minimal-mistakes@4.20.2" # Use este para hospedar o site no GitHub
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 locale                   : "pt-BR"
-title                    : "DA IF UFAL"
+title                    : "Diretório Acadêmico Cecilia Payne"
 title_separator          : "-"
-name                     : &name "DA IF UFAL"
+name                     : &name "Diretório Acadêmico Cecilia Payne"
 description              : &description ""
 url                      : https://diretorioacademico-if-ufal.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -43,7 +43,7 @@ atom_feed:
 
 # Site Author
 author:
-  name             : "Diretório Acadêmico"
+  name             : "DA Cecilia Payne"
   avatar           : "./images/profile.png"
   bio              : ""
   location         : "Maceió, Alagoas"
