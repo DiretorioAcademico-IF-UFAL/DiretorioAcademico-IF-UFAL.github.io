@@ -47,9 +47,9 @@ conforme instruções contidas no modelo que pode ser encontrado
 
 ## Vol. 1
 
-* <p style="font-size:70%"><b>Adaptive SIR model for propagation of SARS-CoV-2 in Brazil</b>
-   <br><b>I. F. F. Dos Santos</b>, G. M. A. Almeida, F. A. B. F. De Moura
-   <br><i>Physica A: Statistical Mechanics and its Applications</i>, 2020.
-   <a href="https://www.sciencedirect.com/science/article/pii/S0378437121000455" style="font-size:90%"><button class="button button2">Article</button></a>
-   <a href="http://200.17.113.231/~fidelis/physicaAcovid.pdf" style="font-size:90%"><button class="button button3">PDF</button></a>
-   <a href="/assets/bibs/DOSSANTOS2021125773.bib" style="font-size:90%"><button class="button button1">BibTeX</button></a></p>
+* <p style="font-size:70%"><b>Modelo</b>
+   <br><b>I. F. F. Dos Santos</b>, C. Antunis
+   <br><i>Revista</i>, 2021.
+   <a href="/assets/revista/modelo.pdf" style="font-size:90%"><button class="button button2">PT</button></a>
+   <a href="/assets/revista/modelo.pdf" style="font-size:90%"><button class="button button3">EN</button></a>
+   <a href="/assets/revista/modelo.pdf" style="font-size:90%"><button class="button button4">ES</button></a>
