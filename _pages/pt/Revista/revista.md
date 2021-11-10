@@ -43,6 +43,6 @@ Se estás a pensar em submeter um artigo por favor
 envie um email para [2020ifda@gmail.com](mailto:2020ifda@gmail.com)
 anexando o seu artigo em pdf e todos os documentos em $\LaTeX$ necessários,
 conforme instruções contidas no modelo que pode ser encontrado
-[/assets/revista/](aqui).
+[aqui](/assets/revista/).
 
-* [/pt/revista/vol1](/Vol. 1)
+* [Vol. 1](/pt/revista/vol1)
